@@ -78,7 +78,7 @@ CatBoost is particularly well-suited for this task due to its **native handling 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/CatBoost-HeartDisease.git
+git clone https://github.com/Niharikaachugatla/CatBoost.git
 cd CatBoost-HeartDisease
 
 # Install dependencies
